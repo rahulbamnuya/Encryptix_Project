@@ -134,6 +134,9 @@ border: 2px solid grey;
     margin-left: 90px;
    
 }
+#n li:hover{
+border:2px solid orange;
+padding:5px}
 .placepp img{
     width: 100%;
     border-radius: 8px;
